@@ -1,22 +1,4 @@
-## Upgrading shells to Meterpreter
+<!-- Maintainers:  Please do not modify this file directly, create a pull request instead -->
 
-If you have an existing session, either Meterpreter, an SSH, or a basic command shell - you can open a new Meterpreter session with:
+**Documentation Update: This Wiki page should be viewable at [https://docs.metasploit.com/docs/pentesting/metasploit-guide-upgrading-shells-to-meterpreter.html](https://docs.metasploit.com/docs/pentesting/metasploit-guide-upgrading-shells-to-meterpreter.html). Or if it is no longer available, see this page's [previous history](./_history)**
 
-```
-sessions -u 3
-```
-
-To upgrade the most recently opened session to Meterpreter using the `sessions` command:
-
-```
-sessions -u -1
-```
-
-Or run the `shell_to_meterpreter` module manually:
-
-```
-use multi/manage/shell_to_meterpreter
-run session=-1
-run session=-1 win_transfer=POWERSHELL
-run session=-1 win_transfer=VBS
-```

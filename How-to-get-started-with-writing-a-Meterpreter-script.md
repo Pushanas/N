@@ -1,5 +1,4 @@
-![](http://33.media.tumblr.com/c401d059691518419b0252fdf17db7f1/tumblr_mgp6xbbCHl1rhtx24o1_250.gif)
+<!-- Maintainers:  Please do not modify this file directly, create a pull request instead -->
 
-I tricked you. We don't let anybody write Meterpreter scripts anymore, therefore we will no longer teach you how.
+**Documentation Update: This Wiki page should be viewable at [https://docs.metasploit.com/docs/using-metasploit/advanced/meterpreter/how-to-get-started-with-writing-a-meterpreter-script.html](https://docs.metasploit.com/docs/using-metasploit/advanced/meterpreter/how-to-get-started-with-writing-a-meterpreter-script.html). Or if it is no longer available, see this page's [previous history](./_history)**
 
-[You should try writing post modules instead](https://github.com/rapid7/metasploit-framework/wiki/How-to-get-started-with-writing-a-post-module).

@@ -1,3 +1,4 @@
-Occasionally, we have ideas or submissions that are absolutely awesome, but that require us to completely change how Metasploit does something, so the deployment of the feature must be done carefully.
+<!-- Maintainers:  Please do not modify this file directly, create a pull request instead -->
 
-In Metasploit 6, it was the way we enumerated commands to the Meterpreter payloads and how we implemented crypto (as in cryptography) between framework and payloads.  In an effort to chart these breaking changes, there is a github label for "Breaking Change" and we can use this space to talk about them as well.
+**Documentation Update: This Wiki page should be viewable at [https://docs.metasploit.com/docs/development/roadmap/metasploit-breaking-changes.html](https://docs.metasploit.com/docs/development/roadmap/metasploit-breaking-changes.html). Or if it is no longer available, see this page's [previous history](./_history)**
+

@@ -1,3 +1,4 @@
-I'm yet to get the documentation done for this extension, but in the mean time there's some useful information in the [original payloads pull request](https://github.com/rapid7/metasploit-payloads/pull/89) that shows how it can be used (including bindings).
+<!-- Maintainers:  Please do not modify this file directly, create a pull request instead -->
 
-I promise to get more detail here soon!
+**Documentation Update: This Wiki page should be viewable at [https://docs.metasploit.com/docs/using-metasploit/advanced/meterpreter/powershell-extension.html](https://docs.metasploit.com/docs/using-metasploit/advanced/meterpreter/powershell-extension.html). Or if it is no longer available, see this page's [previous history](./_history)**
+

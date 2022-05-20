@@ -1,10 +1,4 @@
-Before submitting a pcap to [msfdev@metasploit.com](mailto:msfdev@metasploit.com), you may choose to sanitize it.  Mainly, you'll want to change the mac addresses and IP addresses.
+<!-- Maintainers:  Please do not modify this file directly, create a pull request instead -->
 
-## Kali Linux
+**Documentation Update: This Wiki page should be viewable at [https://docs.metasploit.com/docs/development/get-started/sanitizing-pcaps.html](https://docs.metasploit.com/docs/development/get-started/sanitizing-pcaps.html). Or if it is no longer available, see this page's [previous history](./_history)**
 
-`tcprewrite` can be used to change the IP and MAC addresses.  The following command will take care of both of those: `tcprewrite --seed=<int> --infile=<infile> --outfile=<outfile> --dlt=enet --enet-dmac=<dmac> --enet-smac=<smac>`
-
-* `seed` is used to seed changes to IP address.  Pick a number for here, `111` is acceptable.
-* `dlt` fixes an error: `dlt_linux_ssl plugin does not support packet encoding`
-* `enet-dmac` fixes the destination mac. `00:00:00:00:00:00` works
-* `enet-smac` fixes the source mac. `11:11:11:11:11:11` works

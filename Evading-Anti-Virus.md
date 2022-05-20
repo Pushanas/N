@@ -1,9 +1,4 @@
-# Evading Anti Virus
+<!-- Maintainers:  Please do not modify this file directly, create a pull request instead -->
 
-## Read these links
+**Documentation Update: This Wiki page should be viewable at [https://docs.metasploit.com/docs/using-metasploit/intermediate/evading-anti-virus.html](https://docs.metasploit.com/docs/using-metasploit/intermediate/evading-anti-virus.html). Or if it is no longer available, see this page's [previous history](./_history)**
 
-* [Why encoding does not matter, and how Metasploit generates exes](https://www.scriptjunkie.us/2011/04/)
-* [Facts and myths about antivirus evasion with Metasploit](http://schierlm.users.sourceforge.net/avevasion.html)
-* [Using metasm to avoid antivirus detection ghost writing asm](https://web.archive.org/web/20200330111926/https://www.pentestgeek.com/penetration-testing/using-metasm-to-avoid-antivirus-detection-ghost-writing-asm)
-
-There are approximately 14 million other resources out there on the why's and wherefores of evading antivirus, but the about articles should get you started.

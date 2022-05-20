@@ -1,9 +1,4 @@
-## Getting started
+<!-- Maintainers:  Please do not modify this file directly, create a pull request instead -->
 
-Depending on your skill level - if you have no experience with Metasploit, the following resources may be a better starting point:
+**Documentation Update: This Wiki page should be viewable at [https://docs.metasploit.com/docs/using-metasploit/basics/using-metasploit.html](https://docs.metasploit.com/docs/using-metasploit/basics/using-metasploit.html). Or if it is no longer available, see this page's [previous history](./_history)**
 
-* <https://tryhackme.com/room/rpmetasploit>
-* <http://www.offensive-security.com/metasploit-unleashed/Main_Page>
-* <https://metasploit.help.rapid7.com/docs/>
-* <https://www.kali.org/docs/tools/starting-metasploit-framework-in-kali/>
-* <https://github.com/rapid7/metasploitable3>

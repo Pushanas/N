@@ -1,3 +1,4 @@
-View the latest API docs at:
+<!-- Maintainers:  Please do not modify this file directly, create a pull request instead -->
 
-[https://rapid7.github.io/metasploit-framework/api/](https://rapid7.github.io/metasploit-framework/api/)
+**Documentation Update: This Wiki page should be viewable at [https://docs.metasploit.com/docs/development/developing-modules/libraries/api.html](https://docs.metasploit.com/docs/development/developing-modules/libraries/api.html). Or if it is no longer available, see this page's [previous history](./_history)**
+

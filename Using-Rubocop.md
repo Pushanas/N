@@ -1,12 +1,4 @@
-# Rubocop
-Rubocop is a great tool for beginning and experienced Ruby coders.  Previously, we suggested that developers run Rubocop on code to give suggestions for improvement.  Since then, we've worked hard to get the rules right, and now we ask everyone submitting ruby code to run the code through rubocop with automatic fixes enabled.
+<!-- Maintainers:  Please do not modify this file directly, create a pull request instead -->
 
-## Installing Rubocop
-[Installing Rubocop](https://github.com/bbatsov/rubocop) is really easy.  Simply go to your metasploit-framework directory and run:
-```gem install rubocop```
+**Documentation Update: This Wiki page should be viewable at [https://docs.metasploit.com/docs/development/quality/using-rubocop.html](https://docs.metasploit.com/docs/development/quality/using-rubocop.html). Or if it is no longer available, see this page's [previous history](./_history)**
 
-## Running Rubocop
-Run ```rubocop -a <ruby file>```
-
-#### But I copied it from another module!
-Consistency is a virtue only when it is correct.  (In all seriousness, use your best judgement here, and don't be afraid to ask.). Also, we allow cleaning up other modules too, though be forewarned, please have a way to test any modules you clean up!
